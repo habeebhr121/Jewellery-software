@@ -1,16 +1,14 @@
-# jwells_report
+# Star Jewellery Management System (Jwells Report)
 
-A new Flutter project.
+A professional ERP and inventory management system built with **Flutter** for **Star Jewellery**. This application handles complex jewellery transactions, ledger management, and stock monitoring.
 
-## Getting Started
+## 🚀 Features
+* **Inventory Tracking:** Real-time monitoring of jewellery items.
+* **Ledger Management:** Detailed financial records and transaction history.
+* **Sales & Purchases:** Dedicated modules for issuing and purchasing jewellery.
+* **Multi-Platform:** Built to run on macOS, Windows, and Android.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+* **Framework:** Flutter
+* **Language:** Dart
+* **Tools:** Custom Python scripts for data migration and error fixing.
