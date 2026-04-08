@@ -1,5 +1,7 @@
 # Star Jewellery Management System (Jwells Report)
 
+-- Built with Flutter for Star Jewellery --
+
 A professional ERP and inventory management system built with **Flutter** for **Star Jewellery**. This application handles complex jewellery transactions, ledger management, and stock monitoring.
 
 ## 🚀 Features
